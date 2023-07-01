@@ -1,0 +1,11 @@
+.banner {
+    width: 150px;
+    margin-left: 400px;
+    /* background-color: black; */
+}
+
+.image{
+    width: 150%;
+    height: 100%;
+    object-fit: contain;
+}

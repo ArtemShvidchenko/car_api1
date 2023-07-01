@@ -1,0 +1,76 @@
+{
+    "autos": [
+        {
+            "title":"Renault Megane",
+            "link":"https://assets.rrg-auto.de/public/Renault_Megane_DE_Models_431x223_3_0002_Techno-7.png",
+            "year":2020,
+            "category": "cheap class"
+        },
+        {
+            "title":"Opel Crossland X",
+            "link":"https://www.leasingmarkt.de/wplm/wp-content/uploads/2018/11/opel-crosslandx-front.png",
+            "year":2019,
+            "category": "cheap class"
+        },
+        {
+            "title":"Peugeot 208 2019",
+            "link":"https://www.pngplay.com/wp-content/uploads/13/Peugeot-208-2019-Download-Free-PNG.png",
+            "year":2019,
+            "category": "cheap class"
+        },
+        {
+            "title":"Fiat 500",
+            "link":"https://w7.pngwing.com/pngs/473/374/png-transparent-fiat-500-topolino-car-fiat-automobiles-abarth-fiat-compact-car-car-fiat-500.png",
+            "year":2017,
+            "category": "cheap class"
+        },
+        {
+            "title":"Opel Insignia B",
+            "link":"https://banner2.cleanpng.com/20180724/hsr/kisspng-mid-size-car-opel-insignia-b-compact-sport-utility-opel-insignia-5b56b2a6df68e4.7099482115324084869151.jpg",
+            "year":2020,
+            "category": "middle class"
+        },
+        {
+            "title":"Skoda Superb Combi",
+            "link":"https://img.favpng.com/18/14/1/koda-auto-mid-size-car-skoda-superb-combi-png-favpng-Z5tWktkRziE1pUQNinh7QBqtc.jpg",
+            "year":2018,
+            "category": "middle class"
+        },
+        {
+            "title":"MG HS PHEV",
+            "link":"https://www.mgcars.com/images/mg-models/newmghsphev/color/White.png",
+            "year":2021,
+            "category": "middle class"
+        },
+        {
+            "title":"Mitsubishi Outlander",
+            "link":"https://banner2.cleanpng.com/20180609/qjy/kisspng-2018-mitsubishi-outlander-mitsubishi-outlander-phe-5b1b55547d03b6.4732150215285179725121.jpg",
+            "year":2021,
+            "category": "middle class"
+        },
+        {
+            "title":"BMW 7 Series",
+            "link":"https://www.pngmart.com/files/22/BMW-7-Series-PNG-Isolated-File.png",
+            "year":2021,
+            "category": "elite class"
+        },
+        {
+            "title":"Range Rover Sport",
+            "link":"https://w7.pngwing.com/pngs/33/508/png-transparent-2016-land-rover-range-rover-sport-car-2015-land-rover-range-rover-sport-land-rover-range-rover-sport-2-sd4-hse-land-rover-compact-car-sport-car.png",
+            "year":2018,
+            "category": "elite class"
+        },
+        {
+            "title":"Audi A6",
+            "link":"https://w7.pngwing.com/pngs/60/844/png-transparent-2017-audi-a6-car-luxury-vehicle-2018-audi-a6-sedan-audi-compact-car-sedan-car.png",
+            "year":2021,
+            "category": "elite class"
+        },
+        {
+            "title":"Ford Mustang GT",
+            "link":"https://e7.pngegg.com/pngimages/256/30/png-clipart-ford-gt-shelby-mustang-car-ford-motor-company-koenigsegg-regera-car-performance-car.png",
+            "year":2020,
+            "category": "elite class"
+        }
+    ]
+}
